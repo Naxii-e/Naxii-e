@@ -20,12 +20,37 @@ Japanese Student Developer. <br>
 
 
 ## 🟩 Shields
-
+<br>
 <p align='left'>
   <img src='https://img.shields.io/github/license/naxii-e/htcd-json?label=%E5%85%A8%E3%81%A6%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9&style=for-the-badge'>
 </p>
 <br>
 
+
+## 🔑 Public Key
+<br>
+<p align='left'>
+  Fingerprint
+</p>
+
+  ```
+   D399292D82A4FDB1BAE707913155387CF83251B3
+  ```
+  
+<br>
+<p align='left'>
+  64-Bit
+</p>
+
+  ```
+   3155387CF83251B3
+  ```
+
+<br>
+<p align='left'>
+  <a href="https://keybase.io/naxii_e/pgp_keys.asc?fingerprint=d399292d82a4fdb1bae707913155387cf83251b3">PGP Public Key</a><br>
+</p>
+<br>
 
 ## ✍ I can use...
 <p align='left'>
