@@ -16,7 +16,8 @@
 
 Japanese Student Developer. <br> 
 
-プログラミング・サイバーセキュリティ・サーバーなどを勉強しています。PythonとGoLangを主に使っています。
+プログラミング・サイバーセキュリティ・サーバーなどを勉強しています。PythonとGoLangを主に使っています。 <br>
+映像とか音響とかも勉強中。After EffectsやAuditionを使ったりします。
 
 
 ## 🟩 Shields
