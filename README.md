@@ -14,10 +14,10 @@
 
 ## 🤔 About me
 
-Japanese Student Developer. <br> 
+A Japanese Student Developer. <br> 
 
-プログラミング・サイバーセキュリティ・サーバーなどを勉強しています。PythonとGoLangを主に使っています。 <br>
-映像とか音響とかも勉強中。After EffectsやAuditionを使ったりします。
+プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にPythonとGoLangが得意です。 <br>
+他にもAfterEffectsやAuditionを使ったりします。
 
 
 ## 🟩 Shields
