@@ -35,7 +35,7 @@ A Japanese Student Developer. <br>
 </p>
 
   ```
-   D399292D82A4FDB1BAE707913155387CF83251B3
+   9B68ABAE17BE9A52AB71446EC8D10EDF8D0202A4
   ```
   
 <br>
@@ -44,12 +44,12 @@ A Japanese Student Developer. <br>
 </p>
 
   ```
-   3155387CF83251B3
+   C8D10EDF8D0202A4
   ```
 
 <br>
 <p align='left'>
-  <a href="https://keybase.io/naxii_e/pgp_keys.asc?fingerprint=d399292d82a4fdb1bae707913155387cf83251b3">PGP Public Key</a><br>
+  <a href="https://keybase.io/naxii_e/pgp_keys.asc?fingerprint=9b68abae17be9a52ab71446ec8d10edf8d0202a4">PGP Public Key</a><br>
 </p>
 <br>
 
