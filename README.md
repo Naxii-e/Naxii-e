@@ -5,6 +5,7 @@
 <i>
   🔒 <a href="https://keybase.io/naxii_e">Keybase</a><br>
   🐓 <a href="https://twitter.com/naxii_e">Twitter</a><br>
+  📝 <a href="https://i.naxii.net/blog">Blog</a><br>
   <br>
   📧 <a>Mail: me@naxii.net</a>
   👾 <a>Discord: Naxii#7108</a>
