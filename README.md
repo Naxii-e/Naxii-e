@@ -17,7 +17,7 @@
 
 A Japanese Student Developer. <br> 
 
-プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にPythonとGoLangが得意です。 <br>
+プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にPythonとGoが得意です。 <br>
 他にもAfterEffectsやAuditionを使ったりします。
 
 
