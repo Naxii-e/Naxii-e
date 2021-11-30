@@ -20,6 +20,12 @@ A Japanese Student Developer. <br>
 プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にPythonとGoが得意です。 <br>
 他にもAfterEffectsやAuditionを使ったりします。
 
+## 👨‍💻 Request a job
+
+私へのお仕事のご相談は以下のサービスで承ります。<br>
+
+> <a href="https://coconala.com/users/2197264/">Coconala</a>
+
 
 ## 🟩 Shields
 <br>
