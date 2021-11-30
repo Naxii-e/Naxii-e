@@ -19,15 +19,15 @@
 A Japanese Student Developer. <br> 
 
 プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にPythonとGoが得意です。 <br>
-他にもAfterEffectsやAuditionを使ったりします。
-
+他にもAfterEffectsやAuditionを使ったりします。<br>
+<br>
 
 ## 👨‍💻 Request a job
 
 私へのお仕事のご相談は以下のサービスで承ります。<br>
 
 > <a href="https://coconala.com/users/2197264/">Coconala</a>
-
+<br>
 
 ## 🟩 Shields
 <br>
@@ -87,7 +87,7 @@ A Japanese Student Developer. <br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg' width='45' height='45'/>
 </p>
-
+<br>
 ## 📈 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
