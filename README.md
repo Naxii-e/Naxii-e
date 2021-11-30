@@ -13,12 +13,14 @@
 </p>
 <br>
 
+
 ## 🤔 About me
 
 A Japanese Student Developer. <br> 
 
 プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にPythonとGoが得意です。 <br>
 他にもAfterEffectsやAuditionを使ったりします。
+
 
 ## 👨‍💻 Request a job
 
