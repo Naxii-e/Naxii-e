@@ -29,6 +29,9 @@ A Japanese Student Developer. <br>
 > <a href="https://coconala.com/users/2197264/">Coconala</a>
 <br>
 
+> <a href="https://www.skill-crowd.com/profile/77048/">スキルクラウド</a>
+<br>
+
 ## 🟩 Shields
 <br>
 <p align='left'>
@@ -76,7 +79,6 @@ A Japanese Student Developer. <br>
   <img src='https://cdnlogo.com/logos/c/27/c.svg' width='45' height='45'/>
 </p>
 <p align='left'>
-  <img src='https://symbols.getvecta.com/stencil_28/61_sql-database-generic.a9f12e2a30.svg' width='45' height='45'/>
   <img src='https://camo.githubusercontent.com/21439e24ddd0195751bd0cca02c521e041b87de9c995bcef18c9083d4c1d0473/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg' width='45' height='45'/>
@@ -88,6 +90,7 @@ A Japanese Student Developer. <br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg' width='45' height='45'/>
 </p>
 <br>
+
 ## 📈 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
