@@ -14,7 +14,7 @@
 <br>
 
 
-## 🤔 About me
+## 🤔 About Me
 
 A Japanese Student Developer. <br> 
 
@@ -22,7 +22,23 @@ A Japanese Student Developer. <br>
 他にもAfterEffectsやAuditionを使ったりします。<br>
 <br>
 
-## 👨‍💻 Request a job
+## 💻 My Environment
+
+| Machine | Description |
+| --- | --- |
+| MainPC.os('Primary') | Windows 10 Home Edition |
+| MainPC.os('Secondary') | ArcoLinux 5.16.8 |
+| SubPC.os() | Kali Linux 2021.3 |
+| MainServer.machine('Model') | Dell PowerEdge R710 |
+| MainServer.os('Node') | Proxmox VE 6.4 |
+| MainServer.lxc.os('nginx') | Ubuntu 20.04 LTS |
+| SubServer.os() | Windows Server 2016 |
+| Network.getFirewall('Model') | Yamaha FWX 120 |
+
+<br>
+
+
+## 👨‍💻 Request A Job
 
 私へのお仕事のご相談は以下のサービスで承ります。<br>
 
@@ -65,10 +81,11 @@ A Japanese Student Developer. <br>
 </p>
 <br>
 
-## ✍ I can use...
+## ✍ I Can Use...
 <p align='left'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/1200px-CentOS_Graphical_Symbol.svg.png' width='45' height='45'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arcolinux.svg/1200px-Arcolinux.svg.png' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg' width='45' height='45'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='45' height='45'/>
