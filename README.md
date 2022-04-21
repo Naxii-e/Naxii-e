@@ -58,26 +58,10 @@ A Japanese Student Developer. <br>
 
 ## 🔑 Public Key
 <br>
-<p align='left'>
-  Fingerprint
-</p>
-
-  ```
-   9B68ABAE17BE9A52AB71446EC8D10EDF8D0202A4
-  ```
-  
+電子署名に使用される公開鍵は z0xp.dev から確認することができます。
 <br>
 <p align='left'>
-  64-Bit
-</p>
-
-  ```
-   C8D10EDF8D0202A4
-  ```
-
-<br>
-<p align='left'>
-  <a href="https://keybase.io/naxii_e/pgp_keys.asc?fingerprint=9b68abae17be9a52ab71446ec8d10edf8d0202a4">PGP Public Key</a><br>
+  <a href="https://z0xp.dev/certification.html">Public Keys</a><br>
 </p>
 <br>
 
