@@ -27,7 +27,7 @@ A Japanese Student Developer. <br>
 | Machine | Description |
 | --- | --- |
 | MainPC.os('Primary') | Windows 10 Home Edition |
-| MainPC.os('Secondary') | ArcoLinux 5.16.8 |
+| MainPC.os('Secondary') | Kali Linux 2022.2 |
 | SubPC.os() | Kali Linux 2021.3 |
 | MainServer.machine('Model') | Dell PowerEdge R710 |
 | MainServer.os('Node') | Proxmox VE 6.4 |
