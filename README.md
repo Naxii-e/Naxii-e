@@ -30,7 +30,7 @@ A Japanese Student Developer. <br>
 | MainPC.os('Secondary') | Kali Linux 2022.2 |
 | SubPC.os() | Kali Linux 2021.3 |
 | MainServer.machine('Model') | Dell PowerEdge R710 |
-| MainServer.os('Node') | Proxmox VE 6.4 |
+| MainServer.os('Node') | Proxmox VE 7.2 |
 | MainServer.lxc.os('nginx') | Ubuntu 20.04 LTS |
 | SubServer.os() | Windows Server 2016 |
 | Network.getFirewall('Model') | Yamaha FWX 120 |
