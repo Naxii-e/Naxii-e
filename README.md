@@ -18,22 +18,46 @@
 
 A Japanese Student Developer. <br> 
 
-プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にPythonとGoが得意です。 <br>
-他にもAfterEffectsやAuditionを使ったりします。<br>
+サーバー・映像・音響・プログラミングなどをゆるーく触っています。<br>
+メインの言語は`Python`,`Go`,`Skript`,`Rust`です。<br>
+`Debian`系と`Windows10`を推しています。
 <br>
 
 ## 💻 My Environment
 
-| Machine | Description |
-| --- | --- |
-| MainPC.os('Primary') | Windows 10 Home Edition |
-| MainPC.os('Secondary') | Kali Linux 2022.2 |
-| SubPC.os() | Kali Linux 2021.3 |
-| MainServer.machine('Model') | Dell PowerEdge R710 |
-| MainServer.os('Node') | Proxmox VE 7.2 |
-| MainServer.lxc.os('nginx') | Ubuntu 20.04 LTS |
-| SubServer.os() | Windows Server 2016 |
-| Network.getFirewall('Model') | Yamaha FWX 120 |
+```shell
+DE_PRIMARY = "Windows 10 Home"
+DE_SECONDARY = "Kali Linux 2022.2"
+LT_PRIMARY = "Windows 10 Pro"
+LT_SECONDARY = "Windows 10 Pro"
+SERVER_MACHINE = "Dell Poweredge R710"
+SERVER_OS = "Proxmox VE 7.2"
+NW_RT_FW01 = "Yamaha FWX 120"
+```
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+def get_info(param):
+    try:
+        result = os.environ[str(param)]
+    except Exception:
+        return None
+    return result
+```
+
+| Function                     | Output              |
+|------------------------------|---------------------|
+| `get_info("DE_PRIMARY")`     | Windows 10 Home     |
+| `get_info("DE_SECONDARY")`   | Kali Linux 2022.2   |
+| `get_info("LT_PRIMARY")`     | Windows 10 Pro      |
+| `get_info("LT_SECONDARY")`   | Windows 10 Pro      |
+| `get_info("SERVER_MACHINE")` | Dell Poweredge R710 |
+| `get_info("SERVER_OS")`      | Proxmox VE 7.2      |
+| `get_info("NW_RT_FW01")`     | Yamaha FWX 120      |
 
 <br>
 
@@ -45,8 +69,6 @@ A Japanese Student Developer. <br>
 > <a href="https://coconala.com/users/2197264/">Coconala</a>
 <br>
 
-> <a href="https://www.skill-crowd.com/profile/77048/">スキルクラウド</a>
-<br>
 
 ## 🟩 Shields
 <br>
@@ -78,6 +100,8 @@ A Japanese Student Developer. <br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/2/23/Go_Logo_Aqua.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' width='45' height='45'/>
   <img src='https://cdnlogo.com/logos/c/27/c.svg' width='45' height='45'/>
+  <img src='https://prev.rust-lang.org/logos/rust-logo-512x512-blk.png' width='45' height='45'/>
+  <img src='https://docs.skunity.com/admin/assets/img/skunity_square_white.png' width='45' height='45'/>
 </p>
 <p align='left'>
   <img src='https://camo.githubusercontent.com/21439e24ddd0195751bd0cca02c521e041b87de9c995bcef18c9083d4c1d0473/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67' width='45' height='45'/>
