@@ -8,7 +8,8 @@
   📝 <a href="https://i.naxii.net/blog">Blog</a><br>
   <br>
   📧 <a>Mail: me@naxii.net</a>
-  👾 <a>Discord: Naxii#7108</a>
+  👾 <a>Discord: Naxii#7108</a><br>
+  🥷 <a>Telegram: @naxii_e</a>
   </i>
 </p>
 <br>
