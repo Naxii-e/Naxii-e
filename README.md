@@ -67,24 +67,16 @@ def get_info(param):
 
 私へのお仕事のご相談は以下のサービスで承ります。<br>
 
-> <a href="https://coconala.com/users/2197264/">Coconala</a>
-<br>
-
-
-## 🟩 Shields
-<br>
-<p align='left'>
-  <img src='https://img.shields.io/github/license/naxii-e/htcd-json?label=%E5%85%A8%E3%81%A6%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9&style=for-the-badge'>
-</p>
-<br>
-
+> <a href="https://coconala.com/users/2197264/">coconala</a><br>
+> <a href="https://crowdworks.jp/public/employees/5651834">CrowdWorks</a><br>
+> <a href="https://app.craudia.com/user_detail/LnHyEh">Craudia</a><br>
 
 ## 🔑 Public Key
 <br>
-電子署名に使用される公開鍵は z0xp.dev から確認することができます。
+電子署名に使用される公開鍵は keys.naxii.net から確認することができます。
 <br>
 <p align='left'>
-  <a href="https://z0xp.dev/certification.html">Public Keys</a><br>
+  <a href="https://keys.naxii.net/">Check here.</a><br>
 </p>
 <br>
 
