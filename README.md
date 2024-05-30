@@ -3,12 +3,11 @@
 <h1 align='center'><i>  Hi. I'm Naxii.</i></h1>
 <p align='center'>
 <i>
+  😁 <a href="https://me.naxii.net/">It's me!</a><br>
   🔒 <a href="https://keybase.io/naxii_e">Keybase</a><br>
-  🐓 <a href="https://twitter.com/naxii_e">Twitter</a><br>
-  📝 <a href="https://i.naxii.net/blog">Blog</a><br>
   <br>
-  📧 <a>Mail: me@naxii.net</a>
-  👾 <a>Discord: Naxii#7108</a><br>
+  📧 <a>Mail: works@naxii.net</a>
+  👾 <a>Discord: naxii_e</a><br>
   🥷 <a>Telegram: @naxii_e</a>
   </i>
 </p>
